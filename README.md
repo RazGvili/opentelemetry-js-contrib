@@ -1,6 +1,6 @@
 
 ---
-<p align="center">
+<p align="center"> 
   <strong>
     <a href="https://opentelemetry.io/docs/js/getting_started">Getting Started<a/>
     &nbsp;&nbsp;&bull;&nbsp;&nbsp;
